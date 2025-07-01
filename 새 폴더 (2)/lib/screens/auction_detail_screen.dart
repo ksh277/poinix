@@ -1,0 +1,1 @@
+// Auction detail screen UI
